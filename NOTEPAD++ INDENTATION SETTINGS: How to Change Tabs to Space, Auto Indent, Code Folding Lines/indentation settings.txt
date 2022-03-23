@@ -1,0 +1,43 @@
+This is a reference material for the YouTube video. (https://www.youtube.com/watch?v=5LxbiRxdDTw)
+
+NOTEPAD++ INDENTATION SETTINGS: How to Set Tabs to Space, Auto-Indent, Code Folding Lines
+==============================
+
+0:00 Notepad++ Indentation Settings
+1:23 How To Configure Indentation Settings?
+6:19 How To Auto-Indent In Notepad++?
+8:26 How To Indent Multiple Lines In Notepad++?
+10:53 How To Show Indentation Guide Lines?
+13:26 How Notepad++ Indentation Settings Help In Code-Folding?
+
+HOW TO CONFIGURE INDENTATION SETTINGS?
+======================================
+1. Go to Settings.
+2. Go to Preferences. 
+3. Click on 'Language'.
+4. Under 'Tab Settings', select 'Tab Size' to be 2. 
+5. (Best practice) Check the box to 'Replace by Space'.
+
+HOW TO AUTO-INDENT IN NOTEPAD++?
+================================
+1. Under 'Auto-Completion', make sure 'Auto-Indent' is checked. 
+
+HOW TO INDENT MULTIPLE LINES IN NOTEPAD++?
+=========================================
+- Increase Indentation: Select Lines and Press 'TAB'.
+- Decrease Indentation: Select Lines and Press 'SHIFT + TAB'.
+- You can also go to Edit ... Indent to do the same.
+
+HOW TO SHOW INDENTATION GUIDE LINES?
+====================================
+- From View Menu -- Show Symbols -- Show Indent Guide...OR
+- From Toolbar, select ICON, that says, 'Indent Guide'
+
+HOW NOTEPAD++ INDENTATION SETTINGS HELP IN CODE-FOLDING?
+========================================================
+- Under 'View' menu, there are many options to 'Fold All', 'Unfold All' etc..
+
+
+---
+☛ please LIKE or SUBSCRIBE.
+☛ Please COMMENT If You Like To See Any Video On Specific Topic
