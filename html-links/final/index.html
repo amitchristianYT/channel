@@ -1,0 +1,58 @@
+<!-- This is a template for HTML link tutorial on YouTube channel. -->
+<!-- https://www.youtube.com/c/AmitChristian/videos  -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>HTML Links</title>
+	<meta charset="UTF-8">
+	<meta name="description" content="">
+</head>
+
+<body>
+
+	<h1>HTML links</h1>
+
+	<hr>
+	<h2>Bookmark Links</h2>
+	<ol>
+		<li><a href="#external">External link</a></li>
+		<li><a href="#internal">Internal link</a></li>
+		<li><a href="#email">Email link</a></li>
+		<li><a href="#button">Button link</a></li>
+		<li><a href="#image">Image link</a></li>
+	</ol>
+
+	<hr>
+	<h2>External link</h2>
+	<a href="https://youtube.com" id="external">Youtube</a>
+	
+	<hr>
+	<h2>Internal link - Direct</h2>
+	<a href="page2.html" id="internal">Go to Page 2</a>
+
+	<hr>
+	<h2>Internal link - relative</h2>
+	<a href="./images/test.png">Background Image link</a>
+	
+	<hr>
+	<h2>Email link</h2>
+	<a href="mailto:test@gmail.com" id="email">Email Me</a>
+	
+	<hr>
+	<h2>External link</h2>
+	<p>Open the link in a new tab</p>
+	<a href="https://facebook.com" target="_blank">Go to Facebook Page</a>
+	
+	<hr>
+	<h2>Button link</hr>
+	<button onclick="document.location='page2.html'" id="button">Submit</button>
+	
+	<hr>
+	<h2>Image link</h2>
+	<a href="https://youtube.com" target="_blank" id="image">
+		<img src="./images/test.png" alt="example image link" width="200px" />
+	</a>
+	
+
+</body>
+</html>
