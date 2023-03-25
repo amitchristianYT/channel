@@ -7,10 +7,25 @@
 #
 # Enable Powershell script execution using this command
 #   set-executionpolicy remotesigned
-
-# call: .\Convert-PPTtoPDF_recursively.ps1 -PathToPPTFiles <path_to_ppt_files>
-# 
 #
+# Steps
+# 1. Download this script by copying and pasting or by clicking 'Raw' button on
+#    top right and then right click and save as <Anyname>.ps1.
+#    (IMP: Make sure that the extension of the saved file is in fact, ps1 and 
+#    not .ps1.txt, which essentially is a text file)
+# 2. Copy the ps1 file, to the root folder location where all your pptx files
+#    are located.
+# 3. Enable powersheel script execution using command above.
+#      set-executionpolicy remotesigned
+# 4. Call the ps1 function as below. 
+#      call: .\Convert-PPTtoPDF_recursively.ps1 -PathToPPTFiles <path_to_ppt_files>
+# 
+# TROUBLESHOOTING
+# - Please add a comment if you are getting errors running this script here.
+#   https://www.youtube.com/watch?v=tAz2CDkTY2U
+#
+# Thank you.
+# Cheers.
 #
 #################################################################
 
