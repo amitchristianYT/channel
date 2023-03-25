@@ -15,7 +15,7 @@
 #    not .ps1.txt, which essentially is a text file)
 # 2. Copy the ps1 file, to the root folder location where all your pptx files
 #    are located.
-# 3. Enable powersheel script execution using command above.
+# 3. Enable powersheel script execution using following command.
 #      set-executionpolicy remotesigned
 # 4. Call the ps1 function as below. 
 #      call: .\Convert-PPTtoPDF_recursively.ps1 -PathToPPTFiles <path_to_ppt_files>
